@@ -1,0 +1,18 @@
+#login-box {
+  background-color: #f7f7f7;
+  padding: 35px;
+  border-radius: 10px;
+}
+
+.ui-jcoverflip {
+  position: relative;
+}
+
+.ui-jcoverflip--item {
+  position: absolute;
+  display: block;
+}
+
+#wrapper {
+  margin-top: 350px;
+}

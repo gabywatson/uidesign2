@@ -1,0 +1,6 @@
+.navbar-nav.nav-justified > li{
+    float:none;
+}
+.navbar{
+  margin-top: 50px;
+}

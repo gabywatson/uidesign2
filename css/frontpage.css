@@ -1,0 +1,8 @@
+.mugshot {
+  width: auto;
+  height: 300px !important;
+  max-height: 300px;
+}
+.carousel-caption {
+  margin-left: 100px;
+}
